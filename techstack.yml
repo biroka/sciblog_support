@@ -1,7 +1,8 @@
 repo_name: biroka/sciblog_support
 report_id: 566c81b928b8a5ee72ff430ee790a5df
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:01:52+00:00'
+timestamp: '2024-01-04T14:58:40+00:00'
 requested_by: miguelgfierro
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/biroka/sciblog_support
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/biroka/sciblog_support
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/biroka/sciblog_support
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/biroka/sciblog_support
   detection_source: Repo Metadata
 - name: Perl
   description: Highly capable, feature-rich programming language with over 26 years
@@ -54,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/biroka/sciblog_support
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -64,6 +70,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/biroka/sciblog_support
   detection_source: Repo Metadata
 - name: R Language
   description: A language and environment for statistical computing and graphics
@@ -73,6 +80,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/biroka/sciblog_support
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -82,6 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/biroka/sciblog_support
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -92,6 +101,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/biroka/sciblog_support/blob/main/Dimensionality_Reduction_with_TSNE/t_sne_bhcuda/build/vs2013/vs2013.sln
   detection_source: Dimensionality_Reduction_with_TSNE/t_sne_bhcuda/build/vs2013/vs2013.sln
   last_updated_by: miguelgfierro
   last_updated_on: 2018-10-26 05:54:10.000000000 Z
@@ -105,7 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
-  detection_source_url: Distributed_Training_with_DeepSpeed/requirements.txt
+  detection_source_url: https://github.com/biroka/sciblog_support/blob/main/Distributed_Training_with_DeepSpeed/requirements.txt
   detection_source: Distributed_Training_with_DeepSpeed/requirements.txt
   last_updated_by: miguelgfierro
   last_updated_on: 2022-01-28 22:26:32.000000000 Z
@@ -117,6 +127,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/2836/LUOWehvo_400x400.jpeg
+  detection_source_url: https://github.com/biroka/sciblog_support
   detection_source: Repo Metadata
 - name: Jupyter
   description: Multi-language interactive computing environments.
@@ -127,6 +138,7 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/biroka/sciblog_support
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -137,4 +149,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/biroka/sciblog_support
   detection_source: Repo Metadata
